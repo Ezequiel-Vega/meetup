@@ -25,3 +25,8 @@ Para hacer la integracion de Flask y Vue se tiene que compilar los archivos de V
 una vez compilado todo el codigo solo falta ir a la carpeta backend y ejecutar el codigo:
 
 ``python server.py``
+
+# Contacto
+twitter: **@EzequielZetta**
+instagram: **__ezevega**
+twitch: **twitch.tv/zettacode**
